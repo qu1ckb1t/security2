@@ -24,6 +24,7 @@
 3. `Зашифровал созданный раздел с помощью LUKS`
 
 `Скриншоты выполнения задания 2`
+![LUKS1](img/task2_0.png)
 ![LUKS1](img/task2_1.png)
 ![LUKS2](img/task2_2.png)
 ![LUKS3](img/task2_3.png)
